@@ -215,6 +215,9 @@ section {
 
 /*////////// DETAILS //////////*/
 
+#details {
+  border-top: 1px solid white;
+}
 
 
 #details div {
